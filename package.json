@@ -1,14 +1,14 @@
 {
   "name": "@gristlabs/connect-sqlite3",
   "description": "SQLite3 session store for Connect",
-  "version": "0.9.11-grist.4",
+  "version": "0.9.11-grist.5",
   "author": "David Feinberg",
   "main": "lib/connect-sqlite3",
   "scripts": {
     "test": "mocha test/test.js"
   },
   "dependencies": {
-    "@gristlabs/sqlite3": "^4.1.1-grist.4"
+    "@gristlabs/sqlite3": "^5.1.4-grist.7"
   },
   "devDependencies": {
     "connect": ">=1.0.0",
